@@ -1,0 +1,10 @@
+tqdm
+jupyter
+pylatexenc
+qiskit==1.2.0
+qiskit-aer==0.14.2
+qiskit-ibm-runtime==0.29.0
+qiskit-addon-utils==0.1.0
+qiskit-addon-obp==0.1.0
+qiskit-addon-mpf==0.1.0
+
